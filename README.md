@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lupbris
 - 👀 I’m interested in... well programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: You don't. Imma find you
 - ⚡ Fun fact:  Turtles can breathe from both ends.
