@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lupbris
+- 👋 Hi, I’m Viktor
 - 👀 I’m interested in... well programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: You don't. Imma find you
